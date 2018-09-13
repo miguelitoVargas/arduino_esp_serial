@@ -1,0 +1,5 @@
+./esp_firmware/.pioenvs
+./esp_firmware/.piolibdeps
+./arduino_firmware/.piolibdeps
+./arduino_firmware/.pioenvs
+tags
